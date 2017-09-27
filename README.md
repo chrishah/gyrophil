@@ -11,8 +11,10 @@ Explore this map:
 <iframe src="https://www.google.com/maps/d/embed?mid=1k0isw7LL1W9SZ3Hd8SE8EBFiues" width="640" height="480"></iframe>
 
 
+
 Try different size
 <iframe src="https://www.google.com/maps/d/embed?mid=1k0isw7LL1W9SZ3Hd8SE8EBFiues" width="900" height="600"></iframe>
+
 
 
 ### Useful stuff to further look at
