@@ -28,3 +28,12 @@ https://github.com/waylau/jekyll-bootstrap-blog
 
 ### Guide for setting up a mulilingual webpage with Jekyll
 http://www.klaasnotfound.com/2017/02/16/proper-multilingual-site-with-github-pages-and-jekyll/
+
+Categories:
+- About / Home
+- People
+- Literature collection
+- Publications
+- Maps
+- Gallery
+- Links
